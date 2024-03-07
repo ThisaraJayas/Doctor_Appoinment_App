@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="secondaryColor">#0004E3</color>
+    <color name="cardblue">#0088C7</color>
+    <color name="bannerCard">#3232AC</color>
+    <color name="doctorCard">#ABFBFF</color>
+</resources>

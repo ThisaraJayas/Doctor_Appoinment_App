@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="loginNoAccount">Don\'t have an account? Signup</string>
+    <string name="login">Login</string>
+    <string name="category">Category</string>
+    <string name="seeAll">See all</string>
+    <string name="topDoc">Top Doctors</string>
+    <string name="topdoc">Top Doctor</string>
+    <string name="bannerName">Find a Doctor</string>
+    <string name="docName1">Dr. Thisara Jayas</string>
+    <string name="docName2">Dr. Lissa Dias</string>
+    <string name="docName3">Dr. Kamal Perera</string>
+    <string name="docName4">Dr. John Mendis</string>
+    <string name="docName5">Dr. Jenny Silva</string>
+    <string name="docName6">Dr. Mike Jayas</string>
+    <string name="docName7">Dr. Hendry Jonas</string>
+    <string name="docName8">Dr. Elis Fredric</string>
+    <string name="MedCateegorOne">Heart Surgeon - United Hospital</string>
+    <string name="MedCateegorTwo">Cardio Surgeon - Asiri Hospital</string>
+    <string name="MedCateegorTree">Eye Surgeon - Lanka Hospital</string>
+    <string name="MedCateegorFour">Brain Surgeon - Asiri Hospital</string>
+    <string name="doctorTime">10.30 AM - 08.20 PM</string>
+    <string name="doctorPrice">LKR 1,500</string>
+    <string name="appointmentTxt">Appointment</string>
+    <string name="categoryOne">Cardiologist</string>
+    <string name="categoryTwo">Neurologist</string>
+    <string name="categoryThree">Hematologist</string>
+    <string name="categoryFour">Somnologist</string>
+</resources>
