@@ -26,4 +26,6 @@
     <string name="categoryTwo">Neurologist</string>
     <string name="categoryThree">Hematologist</string>
     <string name="categoryFour">Somnologist</string>
+    <string name="categoryfive">Pulmonlogist</string>
+    <string name="categorySix">Dentist</string>
 </resources>
