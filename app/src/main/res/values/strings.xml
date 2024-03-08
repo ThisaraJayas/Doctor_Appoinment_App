@@ -42,4 +42,5 @@
     <string name="profileBtn">Save Changes</string>
     <string name="profileChangeSuccess">Saved Success!</string>
     <string name="profileSuccessUpdate">Return Home</string>
+    <string name="categories">Categories</string>
 </resources>
