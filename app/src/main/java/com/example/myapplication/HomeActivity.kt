@@ -8,6 +8,7 @@ import android.widget.ImageView
 class HomeActivity : AppCompatActivity() {
     lateinit var profileNavi: ImageView
     lateinit var MedCategoryNavi:ImageView
+    lateinit var notificationNavi:ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
@@ -16,6 +17,7 @@ class HomeActivity : AppCompatActivity() {
 
         profileNavi=findViewById(R.id.profileNav)
         MedCategoryNavi=findViewById(R.id.medCategoryNav)
+        notificationNavi=findViewById(R.id.notifiNav)
 
         profileNavi.setOnClickListener{
             val intent = Intent(this,ProfileActivity::class.java)
@@ -24,6 +26,11 @@ class HomeActivity : AppCompatActivity() {
 
         MedCategoryNavi.setOnClickListener{
             val intent = Intent(this,CategoryActivity::class.java)
+            startActivity(intent)
+        }
+
+        notificationNavi.setOnClickListener{
+            val intent = Intent(this,NotificationActivity::class.java)
             startActivity(intent)
         }
     }

@@ -43,4 +43,7 @@
     <string name="profileChangeSuccess">Saved Success!</string>
     <string name="profileSuccessUpdate">Return Home</string>
     <string name="categories">Categories</string>
+    <string name="notification">Notifications</string>
+    <string name="notificationText1">Nothing Here!!</string>
+    <string name="notificationSmallTxt">You\'re all caught up friend\nCome back latter :)</string>
 </resources>

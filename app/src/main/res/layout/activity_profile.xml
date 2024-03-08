@@ -285,7 +285,7 @@
             app:srcCompat="@drawable/baseline_medical_services_24" />
 
         <ImageView
-            android:id="@+id/imageView8"
+            android:id="@+id/notifiNav"
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:layout_weight="1"
