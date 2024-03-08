@@ -40,4 +40,6 @@
     </string-array>
     <string name="profileDOB">27/12/2002</string>
     <string name="profileBtn">Save Changes</string>
+    <string name="profileChangeSuccess">Saved Success!</string>
+    <string name="profileSuccessUpdate">Return Home</string>
 </resources>

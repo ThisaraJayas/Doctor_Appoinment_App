@@ -6,4 +6,5 @@
     <color name="cardblue">#0088C7</color>
     <color name="bannerCard">#3232AC</color>
     <color name="doctorCard">#ABFBFF</color>
+    <color name="messageColor">#737373</color>
 </resources>
