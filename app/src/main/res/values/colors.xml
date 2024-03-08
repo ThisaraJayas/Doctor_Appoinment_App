@@ -7,4 +7,5 @@
     <color name="bannerCard">#3232AC</color>
     <color name="doctorCard">#ABFBFF</color>
     <color name="messageColor">#737373</color>
+    <color name="GetStartedBtn">#1A1A1A</color>
 </resources>
