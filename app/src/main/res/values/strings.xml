@@ -28,4 +28,16 @@
     <string name="categoryFour">Somnologist</string>
     <string name="categoryfive">Pulmonlogist</string>
     <string name="categorySix">Dentist</string>
+    <string name="profile">Profile</string>
+    <string name="profileName">Thisara Jayas</string>
+    <string name="profileEmail">thisarasjay@gmail.com</string>
+    <string name="profileFName">Thisara</string>
+    <string name="profileLName">Jayas</string>
+    <string name="profilePhone">+94 761207102</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="profileDOB">27/12/2002</string>
+    <string name="profileBtn">Save Changes</string>
 </resources>
