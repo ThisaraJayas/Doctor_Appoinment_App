@@ -52,4 +52,5 @@
     <string name="DocTimeTitle">Available Time</string>
     <string name="bookDocAppoin">Book Appointment</string>
     <string name="signUp">Sign Up</string>
+    <string name="regText">Register</string>
 </resources>

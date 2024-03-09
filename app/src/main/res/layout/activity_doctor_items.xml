@@ -162,13 +162,13 @@
                             android:text="@string/doctorPrice" />
 
                         <Button
-                            android:id="@+id/cardioDocOne"
+                            android:id="@+id/buttoncardio1"
                             android:layout_width="wrap_content"
                             android:layout_height="40dp"
-                            android:layout_gravity="center_vertical|end"
                             android:layout_weight="1"
                             android:backgroundTint="@color/secondaryColor"
                             android:text="@string/appointmentTxt" />
+
                     </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
@@ -235,13 +235,13 @@
                             android:text="@string/doctorPrice" />
 
                         <Button
-                            android:id="@+id/cardioDocOne"
+                            android:id="@+id/buttoncardio3"
                             android:layout_width="wrap_content"
                             android:layout_height="40dp"
-                            android:layout_gravity="center_vertical|end"
                             android:layout_weight="1"
                             android:backgroundTint="@color/secondaryColor"
                             android:text="@string/appointmentTxt" />
+
                     </LinearLayout>
 
                     <TextView
@@ -317,10 +317,91 @@
                             android:text="@string/doctorPrice" />
 
                         <Button
-                            android:id="@+id/cardioDocOne"
+                            android:id="@+id/buttoncardio2"
                             android:layout_width="wrap_content"
                             android:layout_height="40dp"
-                            android:layout_gravity="center_vertical|end"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/secondaryColor"
+                            android:text="@string/appointmentTxt" />
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textView24"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="40dp"
+                        android:text="@string/MedCateegorTwo"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="25dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="25dp"
+                    app:cardBackgroundColor="@color/doctorCard"
+                    app:cardCornerRadius="15dp">
+
+                    <ImageView
+                        android:id="@+id/imageView19"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        app:srcCompat="@drawable/doceight" />
+
+                    <TextView
+                        android:id="@+id/textView17"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/docName6"
+                        android:textSize="25dp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="70dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textView9"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/doctorTime"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="210dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="90dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textView10"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="start|center_vertical"
+                            android:layout_weight="1"
+                            android:text="@string/doctorPrice" />
+
+                        <Button
+                            android:id="@+id/buttoncardio4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
                             android:layout_weight="1"
                             android:backgroundTint="@color/secondaryColor"
                             android:text="@string/appointmentTxt" />
@@ -399,92 +480,9 @@
                             android:text="@string/doctorPrice" />
 
                         <Button
-                            android:id="@+id/cardioDocOne"
+                            android:id="@+id/buttoncardio5"
                             android:layout_width="wrap_content"
                             android:layout_height="40dp"
-                            android:layout_gravity="center_vertical|end"
-                            android:layout_weight="1"
-                            android:backgroundTint="@color/secondaryColor"
-                            android:text="@string/appointmentTxt" />
-                    </LinearLayout>
-
-                    <TextView
-                        android:id="@+id/textView24"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="80dp"
-                        android:layout_marginTop="40dp"
-                        android:text="@string/MedCateegorTwo"
-                        android:textSize="14sp"
-                        android:textStyle="bold" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginStart="25dp"
-                    android:layout_marginTop="20dp"
-                    android:layout_marginEnd="25dp"
-                    app:cardBackgroundColor="@color/doctorCard"
-                    app:cardCornerRadius="15dp">
-
-                    <ImageView
-                        android:id="@+id/imageView19"
-                        android:layout_width="60dp"
-                        android:layout_height="60dp"
-                        android:layout_marginStart="10dp"
-                        android:layout_marginTop="10dp"
-                        app:srcCompat="@drawable/doceight" />
-
-                    <TextView
-                        android:id="@+id/textView17"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="80dp"
-                        android:layout_marginTop="10dp"
-                        android:text="@string/docName6"
-                        android:textSize="25dp"
-                        android:textStyle="bold" />
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_marginStart="80dp"
-                        android:layout_marginTop="70dp"
-                        android:layout_weight="1"
-                        android:orientation="horizontal">
-
-                        <TextView
-                            android:id="@+id/textView9"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="1"
-                            android:text="@string/doctorTime"
-                            android:textStyle="bold" />
-
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="210dp"
-                        android:layout_height="match_parent"
-                        android:layout_marginStart="80dp"
-                        android:layout_marginTop="90dp"
-                        android:layout_weight="1"
-                        android:orientation="horizontal">
-
-                        <TextView
-                            android:id="@+id/textView10"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="start|center_vertical"
-                            android:layout_weight="1"
-                            android:text="@string/doctorPrice" />
-
-                        <Button
-                            android:id="@+id/cardioDocOne"
-                            android:layout_width="wrap_content"
-                            android:layout_height="40dp"
-                            android:layout_gravity="center_vertical|end"
                             android:layout_weight="1"
                             android:backgroundTint="@color/secondaryColor"
                             android:text="@string/appointmentTxt" />
@@ -564,10 +562,9 @@
                             android:text="@string/doctorPrice" />
 
                         <Button
-                            android:id="@+id/cardioDocOne"
+                            android:id="@+id/buttoncardio6"
                             android:layout_width="wrap_content"
                             android:layout_height="40dp"
-                            android:layout_gravity="center_vertical|end"
                             android:layout_weight="1"
                             android:backgroundTint="@color/secondaryColor"
                             android:text="@string/appointmentTxt" />

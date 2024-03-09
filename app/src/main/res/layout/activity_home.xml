@@ -372,7 +372,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textView47"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -389,17 +389,17 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView10"
-                        android:layout_width="wrap_content"
+                        android:id="@+id/textView48"
+                        android:layout_width="73dp"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center_vertical"
                         android:layout_weight="1"
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne1"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
+                        android:layout_height="48dp"
                         android:layout_gravity="center_vertical|end"
                         android:layout_weight="1"
                         android:backgroundTint="@color/secondaryColor"
@@ -454,7 +454,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textView49"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -464,7 +464,7 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:layout_width="210dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="80dp"
                     android:layout_marginTop="90dp"
@@ -472,17 +472,17 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView10"
-                        android:layout_width="wrap_content"
+                        android:id="@+id/textView50"
+                        android:layout_width="73dp"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center_vertical"
                         android:layout_weight="1"
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne2"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
+                        android:layout_height="48dp"
                         android:layout_gravity="center_vertical|end"
                         android:layout_weight="1"
                         android:backgroundTint="@color/secondaryColor"
@@ -527,7 +527,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textView51"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -545,7 +545,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView10"
+                        android:id="@+id/textView52"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center_vertical"
@@ -553,10 +553,9 @@
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne3"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
-                        android:layout_gravity="center_vertical|end"
+                        android:layout_height="48dp"
                         android:layout_weight="1"
                         android:backgroundTint="@color/secondaryColor"
                         android:text="@string/appointmentTxt" />
@@ -609,7 +608,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textView53"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -627,7 +626,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView10"
+                        android:id="@+id/textView54"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center_vertical"
@@ -635,10 +634,9 @@
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne4"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
-                        android:layout_gravity="center_vertical|end"
+                        android:layout_height="48dp"
                         android:layout_weight="1"
                         android:backgroundTint="@color/secondaryColor"
                         android:text="@string/appointmentTxt" />
@@ -691,7 +689,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textView55"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -709,7 +707,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView10"
+                        android:id="@+id/textView56"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center_vertical"
@@ -717,10 +715,9 @@
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne5"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
-                        android:layout_gravity="center_vertical|end"
+                        android:layout_height="48dp"
                         android:layout_weight="1"
                         android:backgroundTint="@color/secondaryColor"
                         android:text="@string/appointmentTxt" />
@@ -773,7 +770,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textView57"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -791,7 +788,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView10"
+                        android:id="@+id/textView58"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center_vertical"
@@ -799,10 +796,9 @@
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne6"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
-                        android:layout_gravity="center_vertical|end"
+                        android:layout_height="48dp"
                         android:layout_weight="1"
                         android:backgroundTint="@color/secondaryColor"
                         android:text="@string/appointmentTxt" />
@@ -855,7 +851,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textView59"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -873,7 +869,7 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:id="@+id/textView10"
+                        android:id="@+id/textView60"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center_vertical"
@@ -881,12 +877,10 @@
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne7"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
-                        android:layout_gravity="center_vertical|end"
+                        android:layout_height="48dp"
                         android:layout_weight="1"
-                        android:backgroundTint="@color/secondaryColor"
                         android:text="@string/appointmentTxt" />
                 </LinearLayout>
 
@@ -964,10 +958,9 @@
                         android:text="@string/doctorPrice" />
 
                     <Button
-                        android:id="@+id/cardioDocOne"
+                        android:id="@+id/cardioDocOne8"
                         android:layout_width="wrap_content"
-                        android:layout_height="40dp"
-                        android:layout_gravity="center_vertical|end"
+                        android:layout_height="48dp"
                         android:layout_weight="1"
                         android:backgroundTint="@color/secondaryColor"
                         android:text="@string/appointmentTxt" />

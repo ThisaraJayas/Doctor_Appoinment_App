@@ -12,7 +12,7 @@ class DoctorItemsActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_doctor_items)
 
-        docProfileNav=findViewById(R.id.cardioDocOne)
+        docProfileNav=findViewById(R.id.cardioDocOne1)
         docProfileNav.setOnClickListener {
             val intent = Intent(this,DoctorProfileActivity::class.java)
             startActivity(intent)
