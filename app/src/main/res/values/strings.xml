@@ -53,4 +53,19 @@
     <string name="bookDocAppoin">Book Appointment</string>
     <string name="signUp">Sign Up</string>
     <string name="regText">Register</string>
+    <string name="fNameHint">First Name</string>
+    <string name="lNameHint">Last Name</string>
+    <string name="emailHint">Enter Email</string>
+    <string name="numberHint">Phone Number</string>
+    <string name="dobHint">dd/mm/year</string>
+    <string name="passwordHint">Password</string>
+    <string-array name="appointmentTime">
+        <item>8:30AM - 9:00AM</item>
+        <item>9:00AM - 9:30AM</item>
+        <item>10:00AM - 10:30AM</item>
+        <item>10:30AM - 11:00AM</item>
+        <item>12:30PM - 01:00PM</item>
+        <item>01:00PM - 01:30PM</item>
+        <item>02:00PM - 02:30PM</item>
+    </string-array>
 </resources>

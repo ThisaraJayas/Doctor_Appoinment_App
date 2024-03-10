@@ -33,16 +33,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:ems="10"
-                android:inputType="text"
-                android:text="Name" />
+                android:hint="@string/emailHint"
+                android:inputType="text" />
 
             <EditText
                 android:id="@+id/editTextText2"
                 android:layout_width="match_parent"
                 android:layout_height="69dp"
                 android:ems="10"
-                android:inputType="text"
-                android:text="Name" />
+                android:hint="@string/passwordHint"
+                android:inputType="text" />
 
             <LinearLayout
                 android:layout_width="match_parent"
