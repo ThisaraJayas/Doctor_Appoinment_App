@@ -40,7 +40,7 @@
     </string-array>
     <string name="profileDOB">27/12/2002</string>
     <string name="profileBtn">Save Changes</string>
-    <string name="profileChangeSuccess">Saved Success!</string>
+    <string name="profileChangeSuccess">Success!!</string>
     <string name="profileSuccessUpdate">Return Home</string>
     <string name="categories">Categories</string>
     <string name="notification">Notifications</string>
@@ -68,4 +68,6 @@
         <item>01:00PM - 01:30PM</item>
         <item>02:00PM - 02:30PM</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

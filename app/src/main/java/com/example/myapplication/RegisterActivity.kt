@@ -14,7 +14,7 @@ class RegisterActivity : AppCompatActivity() {
 
         registerNavi=findViewById(R.id.signupNavigat)
         registerNavi.setOnClickListener {
-            val intent = Intent(this,ProfileChangeActivity::class.java)
+            val intent = Intent(this,MainActivity::class.java)
             startActivity(intent)
             finish()
         }

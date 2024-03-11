@@ -13,6 +13,11 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+            android:name=".TestHomeActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
             android:name=".BookAppinmentActivity"
             android:exported="false" />
         <activity
@@ -26,6 +31,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
         <activity
             android:name=".DoctorProfileActivity"

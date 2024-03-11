@@ -102,39 +102,12 @@
                     android:orientation="horizontal">
 
                     <androidx.cardview.widget.CardView
+                        android:id="@+id/cartiologistCatego"
                         android:layout_width="120dp"
                         android:layout_height="120dp"
                         android:layout_marginStart="25dp"
                         app:cardBackgroundColor="@color/cardblue"
-                        app:cardCornerRadius="15dp" >
-
-                        <ImageView
-                            android:id="@+id/imageView21"
-                            android:layout_width="78dp"
-                            android:layout_height="70dp"
-                            android:layout_gravity="center_horizontal"
-                            android:layout_marginStart="10dp"
-                            android:layout_marginTop="15dp"
-                            app:srcCompat="@drawable/heart" />
-
-                        <TextView
-                            android:id="@+id/textView26"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="bottom|center"
-                            android:layout_marginBottom="10dp"
-                            android:text="@string/categoryOne"
-                            android:textColor="@color/white"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
-                    </androidx.cardview.widget.CardView>
-
-                    <androidx.cardview.widget.CardView
-                        android:layout_width="120dp"
-                        android:layout_height="120dp"
-                        android:layout_marginStart="25dp"
-                        app:cardBackgroundColor="@color/cardblue"
-                        app:cardCornerRadius="15dp" >
+                        app:cardCornerRadius="15dp">
 
                         <ImageView
                             android:id="@+id/imageView22"
@@ -157,65 +130,41 @@
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
+                        android:id="@+id/cartiologistCatego2"
                         android:layout_width="120dp"
-                        android:layout_height="120dp"
+                        android:layout_height="match_parent"
                         android:layout_marginStart="25dp"
                         app:cardBackgroundColor="@color/cardblue"
-                        app:cardCornerRadius="15dp" >
+                        app:cardCornerRadius="15dp">
 
                         <ImageView
-                            android:id="@+id/imageView23"
-                            android:layout_width="75dp"
-                            android:layout_height="75dp"
+                            android:id="@+id/imageView43"
+                            android:layout_width="78dp"
+                            android:layout_height="70dp"
                             android:layout_gravity="center_horizontal"
+                            android:layout_marginStart="10dp"
                             android:layout_marginTop="15dp"
-                            app:srcCompat="@drawable/diabetes" />
+                            app:srcCompat="@drawable/heart" />
 
                         <TextView
-                            android:id="@+id/textView28"
+                            android:id="@+id/textView26"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="bottom|center"
                             android:layout_marginBottom="10dp"
-                            android:text="@string/categoryThree"
+                            android:text="@string/categoryOne"
                             android:textColor="@color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
-                        android:layout_width="120dp"
-                        android:layout_height="120dp"
-                        android:layout_marginStart="20dp"
-                        app:cardBackgroundColor="@color/cardblue"
-                        app:cardCornerRadius="15dp" >
-
-                        <ImageView
-                            android:id="@+id/imageView24"
-                            android:layout_width="75dp"
-                            android:layout_height="75dp"
-                            android:layout_gravity="center_horizontal"
-                            android:layout_marginTop="15dp"
-                            app:srcCompat="@drawable/sleep" />
-
-                        <TextView
-                            android:id="@+id/textView29"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="bottom|center"
-                            android:layout_marginBottom="10dp"
-                            android:text="@string/categoryFour"
-                            android:textColor="@color/white"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
-                    </androidx.cardview.widget.CardView>
-
-                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cartiologistCatego3"
                         android:layout_width="120dp"
                         android:layout_height="120dp"
                         android:layout_marginStart="25dp"
                         app:cardBackgroundColor="@color/cardblue"
-                        app:cardCornerRadius="15dp" >
+                        app:cardCornerRadius="15dp">
 
                         <ImageView
                             android:id="@+id/imageView25"
@@ -238,12 +187,13 @@
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
+                        android:id="@+id/cartiologistCatego4"
                         android:layout_width="120dp"
                         android:layout_height="120dp"
                         android:layout_marginStart="25dp"
                         android:layout_marginEnd="10dp"
                         app:cardBackgroundColor="@color/cardblue"
-                        app:cardCornerRadius="15dp" >
+                        app:cardCornerRadius="15dp">
 
                         <ImageView
                             android:id="@+id/imageView26"
@@ -260,6 +210,62 @@
                             android:layout_gravity="bottom|center"
                             android:layout_marginBottom="10dp"
                             android:text="@string/categorySix"
+                            android:textColor="@color/white"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cartiologistCatego6"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_marginStart="20dp"
+                        app:cardBackgroundColor="@color/cardblue"
+                        app:cardCornerRadius="15dp" >
+
+                        <ImageView
+                            android:id="@+id/imageView23"
+                            android:layout_width="75dp"
+                            android:layout_height="75dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="15dp"
+                            app:srcCompat="@drawable/diabetes" />
+
+                        <TextView
+                            android:id="@+id/textView61"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|center"
+                            android:layout_marginBottom="10dp"
+                            android:text="@string/categoryThree"
+                            android:textColor="@color/white"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cartiologistCatego5"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_marginStart="20dp"
+                        app:cardBackgroundColor="@color/cardblue"
+                        app:cardCornerRadius="15dp">
+
+                        <ImageView
+                            android:id="@+id/imageView24"
+                            android:layout_width="75dp"
+                            android:layout_height="75dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="15dp"
+                            app:srcCompat="@drawable/sleep" />
+
+                        <TextView
+                            android:id="@+id/textView29"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|center"
+                            android:layout_marginBottom="10dp"
+                            android:text="@string/categoryFour"
                             android:textColor="@color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -881,6 +887,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="48dp"
                         android:layout_weight="1"
+                        android:backgroundTint="@color/secondaryColor"
                         android:text="@string/appointmentTxt" />
                 </LinearLayout>
 
@@ -901,9 +908,9 @@
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginEnd="25dp"
-                android:layout_marginBottom="50dp"
+                android:layout_marginBottom="200dp"
                 app:cardBackgroundColor="@color/doctorCard"
-                app:cardCornerRadius="15dp" >
+                app:cardCornerRadius="15dp">
 
                 <ImageView
                     android:id="@+id/imageView20"

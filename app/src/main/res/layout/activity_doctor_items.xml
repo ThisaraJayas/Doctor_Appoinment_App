@@ -135,8 +135,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView9"
+                            android:id="@+id/txtview1"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -153,8 +154,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView10"
+                            android:id="@+id/txtview2"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="start|center_vertical"
@@ -208,8 +210,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView9"
+                            android:id="@+id/txtview3"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -226,8 +229,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView10"
+                            android:id="@+id/txtview5"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="start|center_vertical"
@@ -264,16 +268,18 @@
                     app:cardBackgroundColor="@color/doctorCard"
                     app:cardCornerRadius="15dp">
 
+
                     <ImageView
-                        android:id="@+id/imageView19"
+                        android:id="@+id/image1"
                         android:layout_width="60dp"
                         android:layout_height="60dp"
                         android:layout_marginStart="10dp"
                         android:layout_marginTop="10dp"
                         app:srcCompat="@drawable/doceight" />
 
+
                     <TextView
-                        android:id="@+id/textView17"
+                        android:id="@+id/txt7"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="80dp"
@@ -290,8 +296,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView9"
+                            android:id="@+id/txtview9"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -309,12 +316,12 @@
                         android:orientation="horizontal">
 
                         <TextView
-                            android:id="@+id/textView10"
+                            android:id="@+id/txtview10"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="start|center_vertical"
                             android:layout_weight="1"
-                            android:text="@string/doctorPrice" />
+                            android:text="@string/doctorPrice"
+                            android:textStyle="bold" />
 
                         <Button
                             android:id="@+id/buttoncardio2"
@@ -326,8 +333,10 @@
 
                     </LinearLayout>
 
+
+
                     <TextView
-                        android:id="@+id/textView24"
+                        android:id="@+id/txtvire12"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="80dp"
@@ -427,16 +436,18 @@
                     app:cardBackgroundColor="@color/doctorCard"
                     app:cardCornerRadius="15dp">
 
+
                     <ImageView
-                        android:id="@+id/imageView19"
+                        android:id="@+id/imgview2"
                         android:layout_width="60dp"
                         android:layout_height="60dp"
                         android:layout_marginStart="10dp"
                         android:layout_marginTop="10dp"
                         app:srcCompat="@drawable/doceight" />
 
+
                     <TextView
-                        android:id="@+id/textView17"
+                        android:id="@+id/txtview18"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="80dp"
@@ -453,8 +464,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView9"
+                            android:id="@+id/txtview17"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -471,8 +483,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView10"
+                            android:id="@+id/txtview16"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="start|center_vertical"
@@ -488,8 +501,9 @@
                             android:text="@string/appointmentTxt" />
                     </LinearLayout>
 
+
                     <TextView
-                        android:id="@+id/textView24"
+                        android:id="@+id/txtview15"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="80dp"
@@ -535,8 +549,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView9"
+                            android:id="@+id/txtview14"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -553,8 +568,9 @@
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
+
                         <TextView
-                            android:id="@+id/textView10"
+                            android:id="@+id/txtview13"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="start|center_vertical"
