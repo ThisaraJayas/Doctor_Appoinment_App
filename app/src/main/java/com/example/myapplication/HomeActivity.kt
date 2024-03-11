@@ -78,7 +78,7 @@ class HomeActivity : AppCompatActivity() {
         topDocBtnThree.setOnClickListener {
             val intent = Intent(this,DoctorProfileActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
     }
 }
